@@ -8,4 +8,4 @@ RuboCop::RakeTask.new(:rubocop) do |t|
   t.options = ["--display-cop-names"]
 end
 
-task default: [:spec, :rubocop]
+task default: %i[spec rubocop]
