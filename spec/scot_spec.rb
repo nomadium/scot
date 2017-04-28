@@ -4,8 +4,10 @@ RSpec.describe Scot do
   it "has a version number" do
     expect(Scot::VERSION).not_to be nil
   end
+end
 
-  it "does something useful" do
-    expect(false).to eq(true)
+describe Scot::CLI do
+  it "does nothing" do
+    expect { Scot::CLI.run }.to output(/useless/).to_stdout
   end
 end
