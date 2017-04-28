@@ -1,4 +1,5 @@
 # Scot
+[![Build Status](https://travis-ci.org/nomadium/scot.png)](https://travis-ci.org/nomadium/scot)
 
 yet another git implementation in ruby
 
