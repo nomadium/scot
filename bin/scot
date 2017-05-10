@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 
 require "scot"
+require "pry" if ENV["SCOT_DEBUG"]
 
-Scot::CLI.run
+Scot::CLI.start ARGV

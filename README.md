@@ -1,9 +1,21 @@
 # Scot
-[![Build Status](https://travis-ci.org/nomadium/scot.png)](https://travis-ci.org/nomadium/scot)
+[![Build Status](https://img.shields.io/travis/nomadium/scot.svg)[travis]
+[![Dependency Status](https://img.shields.io/gemnasium/nomadium/scot.svg)[gemnasium]
+[![Code Climate](https://img.shields.io/codeclimate/github/nomadium/scot.svg)[codeclimate]
+[![Coverage Status](http://img.shields.io/coveralls/nomadium/scot.svg)][coveralls]
+
+[travis]: https://travis-ci.org/nomadium/scot
+[gemnasium]: https://gemnasium.com/nomadium/scot
+[codeclimate]: https://codeclimate.com/github/nomadium/scot
+[coveralls]: https://coveralls.io/r/nomadium/scot
 
 yet another git implementation in ruby
 
 git is defined by his creator as a "stupid content tracker", hence this gem is named scot, just that.
+
+Warning: this is alpha code, so I'll not be responsible for any data loss caused by this tool on your git repos.
+You have been warned and the MIT license is very clear anyway about no warranties whatsoever provided by using
+code licensed under it.
 
 ## Installation
 

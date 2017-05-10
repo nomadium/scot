@@ -5,9 +5,3 @@ RSpec.describe Scot do
     expect(Scot::VERSION).not_to be nil
   end
 end
-
-describe Scot::CLI do
-  it "does nothing" do
-    expect { Scot::CLI.run }.to output(/useless/).to_stdout
-  end
-end
