@@ -1,7 +1,7 @@
 # Scot
-[![Build Status](https://img.shields.io/travis/nomadium/scot.svg)[travis]
-[![Dependency Status](https://img.shields.io/gemnasium/nomadium/scot.svg)[gemnasium]
-[![Code Climate](https://img.shields.io/codeclimate/github/nomadium/scot.svg)[codeclimate]
+[![Build Status](https://img.shields.io/travis/nomadium/scot.svg)][travis]
+[![Dependency Status](https://img.shields.io/gemnasium/nomadium/scot.svg)][gemnasium]
+[![Code Climate](https://img.shields.io/codeclimate/github/nomadium/scot.svg)][codeclimate]
 [![Coverage Status](http://img.shields.io/coveralls/nomadium/scot.svg)][coveralls]
 
 [travis]: https://travis-ci.org/nomadium/scot
